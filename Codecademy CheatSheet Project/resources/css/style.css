@@ -1,0 +1,39 @@
+td {
+    border: 1px solid red;
+}
+h1, h2 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: purple;
+    background-color: #ffb7c5;
+    margin: 10px auto;
+}
+h3 {
+    position: relative;
+    float: left;
+    top: 200px;
+
+}
+p {
+    text-align: center;
+}
+.button {
+    color: blue;
+    font-style: bold;
+}
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+}
+
+table {
+    display: table;
+    border-spacing: 2px;
+}
+
+table {
+    border: 2px solid purple;
+    width: 80%;
+    margin: 0 auto;
+}
